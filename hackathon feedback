@@ -1,0 +1,3 @@
+Moving Puzzle Game
+I dont see that you used flask and databases which were mandatory for this hackthon.
+Anyway your implentaiont was not so good, you can split you code into functions to make it more readable
